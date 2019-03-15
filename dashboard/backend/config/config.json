@@ -1,0 +1,26 @@
+{
+  "development": {
+    "api": {
+      "url": "localhost:3000"
+    },
+    "db": {
+      "host": "mongodb://localhost:27017/development"
+    }
+  },
+  "testing": {
+    "api": {
+      "url": "localhost:3000"
+    },
+    "db": {
+      "host": "mongodb://localhost:27017/tests"
+    }
+  },
+  "production": {
+    "api": {
+      "url": "mongo:3000"
+    },
+    "db": {
+      "host": "mongodb://mongo:27017/production"
+    }
+  }
+}
