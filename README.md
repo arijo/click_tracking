@@ -80,4 +80,4 @@ I understand this will impact the way I'm going to be evaluated and would apprec
 
 I did not choose to work with a frontend javascript framework due to the simplicity of the client side part of the code and the flexibility pure javascript provides when coding a quick application - in a more complex frontend, given more planning time I would have likely choose something like Vue.js since to me it provides the best compromise between functionality and flexibility.
 
-I choose existing template projects for the demo site and dashboard apps and decided to keep its included plugins (Chart.js) since it provided most of the functionality I was looking for for the dashboard - it gives the developers a chance to prototype and later decide if other libraries are more appropiate to the task.
+I choose existing template projects for the demo site and dashboard apps and decided to keep its included plugins (Chart.js) since it provided most of the functionality I was looking for the dashboard - it gives the developers a chance to prototype and later decide if other libraries are more appropiate to the task.
